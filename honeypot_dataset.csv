@@ -1,0 +1,17 @@
+timestamp,src_ip,event_type,username,command,label
+2026-01-13T08:15:13.946279Z,127.0.0.1,cowrie.login.success,root,,1
+2026-01-13T08:15:25.337608Z,127.0.0.1,cowrie.command.input,unknown,-p 2222,1
+2026-01-13T08:15:50.098929Z,127.0.0.1,cowrie.command.input,unknown,ssh root@127.0.0.1 -p 2222,1
+2026-01-13T08:16:07.633627Z,127.0.0.1,cowrie.command.input,unknown,ssh root@127.0.0.1 -p 2222,1
+2026-01-13T08:16:54.856535Z,10.0.2.2,cowrie.login.success,root,,1
+2026-01-13T08:17:03.351105Z,10.0.2.2,cowrie.command.input,unknown,ssh root@127.0.0.1 -p 2222,1
+2026-01-13T08:17:18.505476Z,10.0.2.2,cowrie.command.input,unknown,ssh root@127.0.0.1 -p 2222,1
+2026-01-13T08:17:46.513343Z,127.0.0.1,cowrie.command.input,unknown,exit ,1
+2026-01-13T12:44:28.641750Z,10.0.2.2,cowrie.login.success,root,,1
+2026-01-13T13:20:44.171350Z,127.0.0.1,cowrie.login.success,root,,1
+2026-01-13T13:21:02.353155Z,127.0.0.1,cowrie.command.input,unknown,EXIT,1
+2026-01-13T13:21:06.128171Z,127.0.0.1,cowrie.command.input,unknown,exit,1
+2026-01-13T13:22:38.512254Z,127.0.0.1,cowrie.login.success,root,,1
+2026-01-13T13:22:51.354944Z,127.0.0.1,cowrie.command.input,unknown,exit,1
+2026-01-13T13:25:12.930748Z,127.0.0.1,cowrie.login.success,root,,1
+2026-01-13T13:25:23.579127Z,127.0.0.1,cowrie.command.input,unknown,exit,1
